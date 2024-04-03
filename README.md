@@ -1,2 +1,2 @@
-# robinhoodarmy
-This is the EGO application for creating the event, schedule it in calender and traking the donation record.
+# NGO Management App
+This is the NGO application for creating the event, scheduling it in the calendar, and tracking the donation record.
